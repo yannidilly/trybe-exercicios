@@ -1,0 +1,27 @@
+p{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-weight: 300;
+    font-size: 300%;
+}
+body{
+    font-size: 20px;
+}
+#teste{
+    font-size: 100%;
+    font-style: initial;
+    line-height: 150px;
+    text-align: center;
+    text-decoration: underline;
+}
+#amarelo{
+    background-color: yellow;
+    line-height: 40px;
+}
+#vermelho{
+    background-color: red;
+    line-height: 40px;
+}
+#marrom{
+    background-color: brown;
+    line-height: 40px;
+}
