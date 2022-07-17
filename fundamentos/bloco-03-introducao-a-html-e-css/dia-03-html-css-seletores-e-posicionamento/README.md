@@ -6,3 +6,7 @@
 - o padding é o "tamanho interno" de um conteúdo
 - a margem é a parte ao "redor" da caixa de conteúdo
 - a border é o preenchimento assim que acaba o conteúdo da caixa
+# Exercícios p3
+1 - Posicione o Mário acima do Goomba.
+2 - Posicione a tag p para que fique dentro do balão de fala.
+3 - Posicione o balão para que se torne uma fala de Bowser.
