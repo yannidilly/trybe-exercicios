@@ -28,3 +28,6 @@ li em {
 li:nth-child(1), li:nth-child(2), li:nth-child(3){
     color: blue;
 }
+.teste li:nth-child(2), .teste li:nth-child(3){
+    background-color: pink;
+}
