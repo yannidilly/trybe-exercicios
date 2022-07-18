@@ -1,0 +1,33 @@
+body{
+    margin: 30px;
+}
+#numerada {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+}
+#numerada li:nth-child(odd){
+    text-transform:uppercase;
+}
+#numerada li:nth-child(even){
+    color: green;
+}
+.titulo {
+    color: red;
+    margin: 0px;
+}
+.titulo em{
+    font-size: 40px;
+}
+li{
+    font-size: 20px;
+}
+li em {
+    font-weight: bold;
+}
+li:nth-child(1), li:nth-child(2), li:nth-child(3){
+    color: blue;
+}
+.teste li:nth-child(2), .teste li:nth-child(3){
+    background-color: pink;
+}
